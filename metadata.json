@@ -1,0 +1,6 @@
+{
+  "name": "老楊咖啡 - 職人精品咖啡豆專賣",
+  "description": "以老楊咖啡 (Yang's Coffee) 職人美學為靈感，專注於印尼單品咖啡豆的精品電商。結合 AI 智能風味選品、手沖沖煮指南、印尼產區互動地圖與職人烘焙日誌，為您呈現蘇門答臘、蘇拉威西、巴里島等最極致的南洋咖啡風味。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
